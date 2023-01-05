@@ -6,3 +6,5 @@ Básicamente aprenderemos más sobre Git y GitHub con este proyecto
 # Cambios agregados
 
 # Requerimientos para el desarrollo
+
+# Prueba
